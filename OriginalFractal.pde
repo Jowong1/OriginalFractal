@@ -113,6 +113,7 @@ public void draw(){
     }
     if(begin == true){
       fill(0);
+      textSize(50);
       text("Click", width/2 - 60, height/2);
     }
   }
