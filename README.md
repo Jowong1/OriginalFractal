@@ -1,5 +1,11 @@
-Create Your Own Fractal
+Original Fractal
 ===============
+
+Try out my program: https://objectjosh.github.io/OriginalFractal/
+-----------------------------------
+
+Prompt and Instructions:
+--------------
 
 In this assignment you will create your own original fractal design. You can create  fractals with circles, squares, polygons or any other shape. You may want to search the web for ideas, or try to come up with your own variation. Vi Hart has an excellent youtube video [Infinity Elephants](https://www.youtube.com/watch?v=DK5Z709J2eo) which describes many similar fractals. You may find slides 120 - 130 of the [Recursion presentation](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing) helpful. Your program doesn't have to look or work like any other, have fun and be creative.
 
